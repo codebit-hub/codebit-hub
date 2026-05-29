@@ -35,7 +35,7 @@ Opportunities to leverage deep project management expertise combined with growin
 
 ### 📚 Notable Projects
 
-[**Fly-in**](https://github.com/codebit-hub/fly-in) - Efficient drone routing system that navigates multiple drones through connected zones while minimizing simulation turns and handling movement constraints (deployed Cooperative Space-Time A* algorithm with Pygame renderer)
+[**Fly-in**](https://github.com/codebit-hub/fly-in) - Efficient drone routing system that navigates multiple drones through connected zones while minimizing simulation turns and handling movement constraints (Cooperative Space-Time A* algorithm, Pygame, heapq(), frozenset())
 
 [**A-Maze-ing**](https://github.com/codebit-hub/A-Maze-ing) - Python CLI maze generator and solver using BFS/DFS algorithms with interactive gameplay and terminal animations
 
